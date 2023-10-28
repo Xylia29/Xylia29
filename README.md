@@ -1,1 +1,4 @@
+# cs304-handson-gitbasic
+
+THIS ASSIGNMENT FOR MIDTERM EXAM
 
